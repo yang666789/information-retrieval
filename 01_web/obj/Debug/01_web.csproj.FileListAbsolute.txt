@@ -1,0 +1,7 @@
+D:\my_program\cs\Whut.MyWeb\01_web\bin\Debug\01_web.exe.config
+D:\my_program\cs\Whut.MyWeb\01_web\bin\Debug\01_web.exe
+D:\my_program\cs\Whut.MyWeb\01_web\bin\Debug\01_web.pdb
+D:\my_program\cs\Whut.MyWeb\01_web\obj\Debug\01_web.csproj.AssemblyReference.cache
+D:\my_program\cs\Whut.MyWeb\01_web\obj\Debug\01_web.csproj.CoreCompileInputs.cache
+D:\my_program\cs\Whut.MyWeb\01_web\obj\Debug\01_web.exe
+D:\my_program\cs\Whut.MyWeb\01_web\obj\Debug\01_web.pdb

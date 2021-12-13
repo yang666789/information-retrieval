@@ -1,0 +1,7 @@
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\bin\Debug\04_inverted_index.exe.config
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\bin\Debug\04_inverted_index.exe
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\bin\Debug\04_inverted_index.pdb
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\obj\Debug\04_inverted_index.csproj.AssemblyReference.cache
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\obj\Debug\04_inverted_index.csproj.CoreCompileInputs.cache
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\obj\Debug\04_inverted_index.exe
+D:\my_program\cs\Whut.MyWeb\04_inverted_index\obj\Debug\04_inverted_index.pdb

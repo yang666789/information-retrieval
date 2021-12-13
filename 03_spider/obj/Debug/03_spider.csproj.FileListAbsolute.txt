@@ -1,0 +1,11 @@
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\03_spider.exe.config
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\03_spider.exe
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\03_spider.pdb
+D:\my_program\cs\Whut.MyWeb\03_spider\obj\Debug\03_spider.csproj.CoreCompileInputs.cache
+D:\my_program\cs\Whut.MyWeb\03_spider\obj\Debug\03_spider.exe
+D:\my_program\cs\Whut.MyWeb\03_spider\obj\Debug\03_spider.pdb
+D:\my_program\cs\Whut.MyWeb\03_spider\obj\Debug\03_spider.csproj.AssemblyReference.cache
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\HtmlAgilityPack.dll
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\HtmlAgilityPack.pdb
+D:\my_program\cs\Whut.MyWeb\03_spider\bin\Debug\HtmlAgilityPack.xml
+D:\my_program\cs\Whut.MyWeb\03_spider\obj\Debug\03_spider.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\bin\Debug\02_正则表达式.exe.config
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\bin\Debug\02_正则表达式.exe
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\bin\Debug\02_正则表达式.pdb
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\obj\Debug\02_正则表达式.csproj.CoreCompileInputs.cache
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\obj\Debug\02_正则表达式.exe
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\obj\Debug\02_正则表达式.pdb
+D:\my_program\cs\Whut.MyWeb\02_正则表达式\obj\Debug\02_正则表达式.csproj.AssemblyReference.cache
